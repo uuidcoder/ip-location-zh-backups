@@ -1,0 +1,23 @@
+{
+    "name": "uuidcoder/ip-localtion-zh-backups",
+    "description": "get the ip's location info with Chinese",
+    "keywords": ["ip", "location", "chinese"],
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "UuidCoder\\IpLocaltionZhBackups\\": "src/"
+        }
+    },
+    "extra": {
+      "laravel": {
+        "aliases": {
+          "Ip": "UuidCoder\\IpLocaltionZhBackups\\Ip"
+        }
+      }
+    },
+    "minimum-stability": "stable",
+    "require": {},
+    "require-dev": {
+      "phpunit/phpunit": "^4.0"
+    }
+}
