@@ -1,4 +1,4 @@
-<?php namespace UuidCoders\IpLocationZh;
+<?php namespace UuidCoders\IpLocationZhBackups;
 
 use Exception;
 
